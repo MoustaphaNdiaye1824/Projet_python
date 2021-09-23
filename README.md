@@ -8,5 +8,5 @@ Pour réaliser ce projet, nous allons tout d’abord importer les données et le
 Ensuite, nous allons utilisé des algorithmes de régularisation pour éviter le phénomène de sur-apprentissage.
 En fin, nous allons estimer les hyperparamètres pour chacun de ces algorithmes par validation croisée, sélectionner le meilleur algorithme et faire la prédiction des données non-étiquetées.
 
-# Auteur : Moustapha Ndiaye
+### Auteur : Moustapha Ndiaye
 
